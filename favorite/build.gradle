@@ -16,7 +16,6 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.sport.favorite"
         minSdkVersion 26
         targetSdkVersion 30
         versionCode 1
